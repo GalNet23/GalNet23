@@ -1,5 +1,5 @@
-<h1>Hi, I'm Gal ! <br/><a href="">Data analyst</a>, <a href="">Data scientist </a>, 
-  <a href="">blabla</a></h1>
+<h1>Hi, I'm Gal! <br/><a href="">Data analysis</a>, <a href="">Data science </a>, 
+  <br/><a href="">DATA</a></h1>
 
 <h2>👨‍💻 Data analysis projects:</h2>
 
